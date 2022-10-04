@@ -1,2 +1,2 @@
 # Patterns
-A repo to diaplay patterns in python
+A repo to display patterns in python
